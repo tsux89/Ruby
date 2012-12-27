@@ -1,0 +1,5 @@
+desc: "利用できます"
+msg: "利用できます"
+reason: "available"
+suggestions: [{suggestion:bgiucew, technique:make_individuals, sources:[email]},…]
+valid: true
