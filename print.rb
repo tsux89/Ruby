@@ -18,3 +18,6 @@ print("Hello")   # 画面に出力します
 
 # 複行
 # 隠す
+
+
+# 結果→ http://yfrog.com/nteamdp
